@@ -1,0 +1,47 @@
+[
+    {
+        "image_url": "https://jufailitech.com/envatoitems/travilo/html/images/resource/image-2.jpg",
+        "id": "1",
+        "total_view": "488",
+        "title": "New York",
+        "ratings": "4.8",
+        "price": "444",
+        "details": "200 Tour Packages\r\n"
+    },
+    {
+        "image_url": "https://jufailitech.com/envatoitems/travilo/html/images/resource/gallery-2.jpg",
+        "id": "2",
+        "total_view": "487",
+        "title": "Muscat",
+        "ratings": "4.8",
+        "price": "444",
+        "details": "200 Tour Packages \r\n"
+    },
+    {
+        "image_url": "https://jufailitech.com/envatoitems/travilo/html/images/resource/gallery-3.jpg",
+        "id": "3",
+        "total_view": "487",
+        "title": "London",
+        "ratings": "4.8",
+        "price": "444",
+        "details": "200 Tour Packages \r\n"
+    },
+    {
+        "image_url": "https://jufailitech.com/envatoitems/travilo/html/images/resource/gallery-4.jpg",
+        "id": "4",
+        "total_view": "487",
+        "title": "Sydney",
+        "ratings": "4.8",
+        "price": "444",
+        "details": "200 Tour Packages \r\n"
+    },
+    {
+        "image_url": "https://jufailitech.com/envatoitems/travilo/html/images/resource/gallery-5.jpg",
+        "id": "5",
+        "total_view": "487",
+        "title": "Rome",
+        "ratings": "4.8",
+        "price": "444",
+        "details": "200 Tour Packages \r\n"
+    }
+]
