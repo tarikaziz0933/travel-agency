@@ -1,0 +1,26 @@
+[
+    {
+        "image_url": "https://www.bacinos.com/wp-content/uploads/2021/05/The-love-affair-with-pizza.jpg",
+        "rating": "4.5",
+        "price": 29,
+        "total_view": "488",
+        "title": "Pizza Contains Glutamate",
+        "details": "Pizza is one of the most popular foods on the planet, and particularly here in the USA. Americans eat 3 billion fresh and a billion frozen pizzas every single year. That’s an average of 23 pounds of pizza per person! The passion began with Italian immigrant Gennaro Lombardi. He began selling pizzas in his New York grocery store in 1895. His pies proved so popular with local workers that he soon ditched the groceries and dedicated his store to pizza.\r\n"
+    },
+    {
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2020/03/Chicken-Chow-Mein-3-728x1092.jpg",
+        "rating": "4.9",
+        "price": 24,
+        "total_view": "487",
+        "title": "Chicken Chow Mein",
+        "details": "Chow mein is a traditional Chinese dish made with egg noodles and stir-fried veggies. We love adding a protein and our favorite is chicken, but you can try different meat or tofu. This dish is pan-fried so the noodles get a nice crisp to them and then tossed in a yummy sauce. Chow mein is perfect for those nights when you don’t want to dirty too many pans or make a big mess of the kitchen. \r\n"
+    },
+    {
+        "image_url": "https://img.taste.com.au/vETk_k2x/w720-h480-cfill-q80/taste/2016/11/vegetarian-lasagne-96693-2.jpeg",
+        "rating": "4.4",
+        "price": 23,
+        "total_view": "483",
+        "title": "Vegetarian Lasagne",
+        "details": "A dinner staple in most Aussie households, lasagne has a history of being a go-to meal that will leave the whole family satisfied. There’s something about the layers of mince, red sauce, and al dente pasta that keeps us going back for seconds. But what if we told you that a vegetarian version exists… and it’s even won the hearts of meat lovers around the nation? Yep, it’s THAT good. \r\n"
+    }
+]
